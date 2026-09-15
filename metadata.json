@@ -1,0 +1,6 @@
+{
+  "name": "Espacio Neón 3D",
+  "description": "Entorno 3D interactivo con cuadrícula de neón optimizado para bajo consumo térmico y rendimiento móvil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
